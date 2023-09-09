@@ -7122,7 +7122,7 @@
                 ]
             },
             {
-                "category_id": 9,
+                "category_id": "9",
                 "category_name": "Toys & Games",
                 "category_img": "https://dailysale.com/cdn/shop/collections/toys-games-444426.jpg?v=1645577311",
                 "description": "Fun and educational toys for all ages.",
@@ -8008,7 +8008,7 @@
                 ]
             },
             {
-                "category_id": 10,
+                "category_id": "10",
                 "category_name": "Food & Grocery",
                 "category_img": "https://chatelaine.com/wp-content/uploads/2021/12/grocery-prices-canada-2021-2022.jpg",
                 "description": "Shop for your daily essentials and gourmet treats.",
