@@ -5824,6 +5824,8 @@
                           "color": "White",
                           "size": "Queen",
                           "material": "Cotton",
+                          "delivery_time": "5-7 days",
+                          "delivery_charges": 19.99,
                           "image": "https://www.spaces.in/cdn/shop/products/1059622-1.jpg?v=1671974935&width=533"
                         },
                         {
@@ -5837,6 +5839,8 @@
                           "color": "Gray",
                           "size": "Twin",
                           "material": "Flannel",
+                          "delivery_time": "5-7 days",
+                          "delivery_charges": 19.99,
                           "image": "https://www.spaces.in/cdn/shop/products/1059622-1.jpg?v=1671974935&width=533"
                         },
                         {
@@ -5850,6 +5854,8 @@
                           "color": "Champagne",
                           "size": "King",
                           "material": "Silk",
+                          "delivery_time": "5-7 days",
+                          "delivery_charges": 19.99,
                           "image": "https://www.spaces.in/cdn/shop/products/1059622-1.jpg?v=1671974935&width=533"
                         },
                         {
@@ -5863,6 +5869,8 @@
                           "color": "Navy Blue",
                           "size": "One Size",
                           "material": "Acrylic",
+                          "delivery_time": "5-7 days",
+                          "delivery_charges": 19.99,
                           "image": "https://www.spaces.in/cdn/shop/products/1059622-1.jpg?v=1671974935&width=533"
                         },
                         {
@@ -5876,6 +5884,8 @@
                           "color": "Light Gray",
                           "size": "Full",
                           "material": "Cotton Blend",
+                          "delivery_time": "5-7 days",
+                          "delivery_charges": 19.99,
                           "image": "https://www.spaces.in/cdn/shop/products/1059622-1.jpg?v=1671974935&width=533"
                         },
                         {
@@ -5889,6 +5899,8 @@
                           "color": "Cream",
                           "size": "One Size",
                           "material": "Faux Fur",
+                          "delivery_time": "5-7 days",
+                          "delivery_charges": 19.99,
                           "image": "https://www.spaces.in/cdn/shop/products/1059622-1.jpg?v=1671974935&width=533"
                         },
                         {
@@ -5902,6 +5914,8 @@
                           "color": "Ivory",
                           "size": "Queen",
                           "material": "Cotton",
+                          "delivery_time": "5-7 days",
+                          "delivery_charges": 19.99,
                           "image": "https://www.spaces.in/cdn/shop/products/1059622-1.jpg?v=1671974935&width=533"
                         },
                         {
@@ -5915,6 +5929,8 @@
                           "color": "Red/Black",
                           "size": "One Size",
                           "material": "Acrylic",
+                          "delivery_time": "5-7 days",
+                          "delivery_charges": 19.99,
                           "image": "https://www.spaces.in/cdn/shop/products/1059622-1.jpg?v=1671974935&width=533"
                         },
                         {
@@ -5928,6 +5944,8 @@
                           "color": "Navy Blue",
                           "size": "King",
                           "material": "Microfiber",
+                          "delivery_time": "5-7 days",
+                          "delivery_charges": 19.99,
                           "image": "https://www.spaces.in/cdn/shop/products/1059622-1.jpg?v=1671974935&width=533"
                         },
                         {
@@ -5941,6 +5959,8 @@
                           "color": "Gray/White",
                           "size": "Twin",
                           "material": "Wool Blend",
+                          "delivery_time": "5-7 days",
+                          "delivery_charges": 19.99,
                           "image": "https://www.spaces.in/cdn/shop/products/1059622-1.jpg?v=1671974935&width=533"
                         }
                       ]
@@ -5962,6 +5982,8 @@
                           "color": "Gold",
                           "size": "84 inches",
                           "material": "Silk",
+                          "delivery_time": "5-7 days",
+                          "delivery_charges": 23.99,
                           "image": "https://www.samratinteriors.com/wp-content/uploads/2021/01/Curtain-Store-in-Gurgaon-2.jpg"
                         },
                         {
@@ -5975,6 +5997,8 @@
                           "color": "White",
                           "size": "63 inches",
                           "material": "Polyester",
+                          "delivery_time": "5-7 days",
+                          "delivery_charges": 23.99,
                           "image": "https://www.samratinteriors.com/wp-content/uploads/2021/01/Curtain-Store-in-Gurgaon-2.jpg"
                         },
                         {
@@ -5988,6 +6012,8 @@
                           "color": "Navy Blue",
                           "size": "96 inches",
                           "material": "Polyester",
+                          "delivery_time": "5-7 days",
+                          "delivery_charges": 23.99,
                           "image": "https://www.samratinteriors.com/wp-content/uploads/2021/01/Curtain-Store-in-Gurgaon-2.jpg"
                         },
                         {
@@ -6001,6 +6027,8 @@
                           "color": "Beige",
                           "size": "72 inches",
                           "material": "Linen",
+                          "delivery_time": "5-7 days",
+                          "delivery_charges": 23.99,
                           "image": "https://www.samratinteriors.com/wp-content/uploads/2021/01/Curtain-Store-in-Gurgaon-2.jpg"
                         },
                         {
@@ -6014,6 +6042,8 @@
                           "color": "Gray/White",
                           "size": "84 inches",
                           "material": "Polyester",
+                          "delivery_time": "5-7 days",
+                          "delivery_charges": 23.99,
                           "image":"https://www.samratinteriors.com/wp-content/uploads/2021/01/Curtain-Store-in-Gurgaon-2.jpg"
                         },
                         {
@@ -6027,6 +6057,8 @@
                           "color": "Ivory",
                           "size": "95 inches",
                           "material": "Polyester",
+                          "delivery_time": "5-7 days",
+                          "delivery_charges": 23.99,
                           "image": "https://www.samratinteriors.com/wp-content/uploads/2021/01/Curtain-Store-in-Gurgaon-2.jpg"
                         },
                         {
@@ -6040,6 +6072,8 @@
                           "color": "Burgundy",
                           "size": "84 inches",
                           "material": "Velvet",
+                          "delivery_time": "5-7 days",
+                          "delivery_charges": 23.99,
                           "image": "https://www.samratinteriors.com/wp-content/uploads/2021/01/Curtain-Store-in-Gurgaon-2.jpg"
                         },
                         {
@@ -6053,6 +6087,8 @@
                           "color": "Teal",
                           "size": "72 inches",
                           "material": "Polyester",
+                          "delivery_time": "5-7 days",
+                          "delivery_charges": 23.99,
                           "image": "https://www.samratinteriors.com/wp-content/uploads/2021/01/Curtain-Store-in-Gurgaon-2.jpg"
                         },
                         {
@@ -6066,6 +6102,8 @@
                           "color": "Multi-Color",
                           "size": "84 inches",
                           "material": "Polyester",
+                          "delivery_time": "5-7 days",
+                          "delivery_charges": 23.99,
                           "image": "https://www.samratinteriors.com/wp-content/uploads/2021/01/Curtain-Store-in-Gurgaon-2.jpg"
                         },
                         {
@@ -6079,6 +6117,8 @@
                           "color": "Navy Blue",
                           "size": "95 inches",
                           "material": "Polyester",
+                          "delivery_time": "5-7 days",
+                          "delivery_charges": 23.99,
                           "image": "https://www.samratinteriors.com/wp-content/uploads/2021/01/Curtain-Store-in-Gurgaon-2.jpg"
                         }
                       ]
@@ -6099,6 +6139,8 @@
                           "brand": "ModernHome",
                           "color": "Black",
                           "material": "Metal",
+                          "delivery_time": "6-8 days",
+                          "delivery_charges": 32.99,
                           "image": "https://m.media-amazon.com/images/I/71oYXdemoYS._AC_UF1000,1000_QL80_.jpg"
                         },
                         {
@@ -6111,6 +6153,8 @@
                           "brand": "ArtisticExpressions",
                           "color": "Multi-Color",
                           "material": "Canvas",
+                          "delivery_time": "6-8 days",
+                          "delivery_charges": 32.99,
                           "image": "https://m.media-amazon.com/images/I/71oYXdemoYS._AC_UF1000,1000_QL80_.jpg"
                         },
                         {
@@ -6123,6 +6167,8 @@
                           "brand": "TimelessTreasures",
                           "color": "Brown",
                           "material": "Wood",
+                          "delivery_time": "6-8 days",
+                          "delivery_charges": 32.99,
                           "image": "https://m.media-amazon.com/images/I/71oYXdemoYS._AC_UF1000,1000_QL80_.jpg"
                         },
                         {
@@ -6135,6 +6181,8 @@
                           "brand": "ArtistryMasters",
                           "color": "Green/Blue",
                           "material": "Canvas",
+                          "delivery_time": "6-8 days",
+                          "delivery_charges": 32.99,
                           "image": "https://m.media-amazon.com/images/I/71oYXdemoYS._AC_UF1000,1000_QL80_.jpg"
                         },
                         {
@@ -6147,6 +6195,8 @@
                           "brand": "RusticCraft",
                           "color": "Natural Wood",
                           "material": "Wood",
+                          "delivery_time": "6-8 days",
+                          "delivery_charges": 32.99,
                           "image": "https://m.media-amazon.com/images/I/71oYXdemoYS._AC_UF1000,1000_QL80_.jpg"
                         },
                         {
@@ -6159,6 +6209,8 @@
                           "brand": "MetallicVisions",
                           "color": "Silver",
                           "material": "Metal",
+                          "delivery_time": "6-8 days",
+                          "delivery_charges": 32.99,
                           "image":"https://m.media-amazon.com/images/I/71oYXdemoYS._AC_UF1000,1000_QL80_.jpg"
                         },
                         {
@@ -6171,6 +6223,8 @@
                           "brand": "CrystalElegance",
                           "color": "Clear/Silver",
                           "material": "Crystal",
+                          "delivery_time": "6-8 days",
+                          "delivery_charges": 32.99,
                           "image": "https://m.media-amazon.com/images/I/71oYXdemoYS._AC_UF1000,1000_QL80_.jpg"
                         },
                         {
@@ -6183,6 +6237,8 @@
                           "brand": "ArtisticExpressions",
                           "color": "Black/White",
                           "material": "Canvas",
+                          "delivery_time": "6-8 days",
+                          "delivery_charges": 32.99,
                           "image": "https://m.media-amazon.com/images/I/71oYXdemoYS._AC_UF1000,1000_QL80_.jpg"
                         },
                         {
@@ -6195,6 +6251,8 @@
                           "brand": "TimelessTreasures",
                           "color": "Sepia",
                           "material": "Canvas",
+                          "delivery_time": "6-8 days",
+                          "delivery_charges": 32.99,
                           "image": "https://m.media-amazon.com/images/I/71oYXdemoYS._AC_UF1000,1000_QL80_.jpg"
                         },
                         {
@@ -6207,6 +6265,8 @@
                           "brand": "ModernHome",
                           "color": "Silver",
                           "material": "Metal",
+                          "delivery_time": "6-8 days",
+                          "delivery_charges": 32.99,
                           "image": "https://m.media-amazon.com/images/I/71oYXdemoYS._AC_UF1000,1000_QL80_.jpg"
                         }
                       ]
@@ -6227,6 +6287,8 @@
                           "brand": "HomeComforts",
                           "color": "Gray",
                           "material": "Fabric",
+                          "delivery_time": "6-8 days",
+                          "delivery_charges": 14.99,
                           "image": "https://images.livspace-cdn.com/plain/https://jumanji.livspace-cdn.com/magazine/wp-content/uploads/2016/10/27163536/uses-of-ottomans.jpg"
                         },
                         {
@@ -6239,6 +6301,8 @@
                           "brand": "ChicLiving",
                           "color": "Beige",
                           "material": "Fabric",
+                          "delivery_time": "6-8 days",
+                          "delivery_charges": 14.99,
                           "image": "https://images.livspace-cdn.com/plain/https://jumanji.livspace-cdn.com/magazine/wp-content/uploads/2016/10/27163536/uses-of-ottomans.jpg"
                         },
                         {
@@ -6251,6 +6315,8 @@
                           "brand": "LuxuryLiving",
                           "color": "Brown",
                           "material": "Leather",
+                          "delivery_time": "6-8 days",
+                          "delivery_charges": 14.99,
                           "image": "https://images.livspace-cdn.com/plain/https://jumanji.livspace-cdn.com/magazine/wp-content/uploads/2016/10/27163536/uses-of-ottomans.jpg"
                         },
                         {
@@ -6263,6 +6329,8 @@
                           "brand": "StorageSolutions",
                           "color": "Dark Blue",
                           "material": "Fabric",
+                          "delivery_time": "6-8 days",
+                          "delivery_charges": 14.99,
                           "image": "https://images.livspace-cdn.com/plain/https://jumanji.livspace-cdn.com/magazine/wp-content/uploads/2016/10/27163536/uses-of-ottomans.jpg"
                         },
                         {
@@ -6275,6 +6343,8 @@
                           "brand": "ElegantSpaces",
                           "color": "Navy Blue",
                           "material": "Velvet",
+                          "delivery_time": "6-8 days",
+                          "delivery_charges": 14.99,
                           "image": "https://images.livspace-cdn.com/plain/https://jumanji.livspace-cdn.com/magazine/wp-content/uploads/2016/10/27163536/uses-of-ottomans.jpg"
                         },
                         {
@@ -6287,6 +6357,8 @@
                           "brand": "MultiFunction",
                           "color": "Black",
                           "material": "Leather",
+                          "delivery_time": "6-8 days",
+                          "delivery_charges": 14.99,
                           "image": "https://images.livspace-cdn.com/plain/https://jumanji.livspace-cdn.com/magazine/wp-content/uploads/2016/10/27163536/uses-of-ottomans.jpg"
                         },
                         {
@@ -6299,6 +6371,8 @@
                           "brand": "ModernLiving",
                           "color": "Gray/White",
                           "material": "Fabric",
+                          "delivery_time": "6-8 days",
+                          "delivery_charges": 14.99,
                           "image": "https://images.livspace-cdn.com/plain/https://jumanji.livspace-cdn.com/magazine/wp-content/uploads/2016/10/27163536/uses-of-ottomans.jpg"
                         },
                         {
@@ -6311,6 +6385,8 @@
                           "brand": "EcoFriendlyDecor",
                           "color": "Natural",
                           "material": "Jute",
+                          "delivery_time": "6-8 days",
+                          "delivery_charges": 14.99,
                           "image": "https://images.livspace-cdn.com/plain/https://jumanji.livspace-cdn.com/magazine/wp-content/uploads/2016/10/27163536/uses-of-ottomans.jpg"
                         },
                         {
@@ -6323,6 +6399,8 @@
                           "brand": "SpaceSaver",
                           "color": "Gray",
                           "material": "Fabric",
+                          "delivery_time": "6-8 days",
+                          "delivery_charges": 14.99,
                           "image": "https://images.livspace-cdn.com/plain/https://jumanji.livspace-cdn.com/magazine/wp-content/uploads/2016/10/27163536/uses-of-ottomans.jpg"
                         },
                         {
@@ -6335,6 +6413,8 @@
                           "brand": "VerticalLiving",
                           "color": "Charcoal Gray",
                           "material": "Fabric",
+                          "delivery_time": "6-8 days",
+                          "delivery_charges": 14.99,
                           "image":"https://images.livspace-cdn.com/plain/https://jumanji.livspace-cdn.com/magazine/wp-content/uploads/2016/10/27163536/uses-of-ottomans.jpg"
                         }
                       ]
